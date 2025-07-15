@@ -1,4 +1,4 @@
-# Chat_with_PDF
+# DocuTalk
 
 A Streamlit app that allows you to chat with the contents of your PDF files using Google’s Gemini API. Just upload your PDFs, ask questions, and get intelligent, context-based answers!
 
