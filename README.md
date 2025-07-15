@@ -24,10 +24,10 @@ Getting Started
 git clone https://github.com/titiksha62/Chat_with_PDF.git
 cd Chat_with_PDF
 
-2. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-3. Run the app
+4. Run the app
 streamlit run pdf_reader.py
 
 API Key Setup
